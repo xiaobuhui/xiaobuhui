@@ -1,0 +1,5 @@
+# IDE 配置
+.idea/
+
+# WorkBuddy 本地工作数据（不是缓存，勿删；也不需要提交）
+.workbuddy/
