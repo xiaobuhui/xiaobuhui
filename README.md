@@ -1,17 +1,17 @@
-<h1 align="center">Hi, I'm xiaobuhui</h1>
-
 <p align="center">
-  <sub>在读学生 · 后端为主的全栈开发 · 主攻 Agent 方向 &nbsp;|&nbsp; Student · Backend-focused full-stack developer · AI agents</sub>
+  <b>简体中文</b> · <a href="./README.en.md">English</a> · <a href="./README.zh-TW.md">繁體中文</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.ru.md">Русский</a> · <a href="./README.es.md">Español</a> · <a href="./README.fr.md">Français</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.pt.md">Português</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/xiaobuhui"><img src="https://img.shields.io/badge/GitHub-xiaobuhui-7F77DD?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:kapibala555@163.com"><img src="https://img.shields.io/badge/Email-kapibala555%40163.com-D4537E?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img align="right" width="220" height="293" src="./assets/avatar.png" alt="xiaobuhui" />
+
+# Hi, I'm xiaobuhui
+
+在读学生 · 后端为主的全栈开发 · 主攻 Agent 方向
+
+<p>
+  <a href="https://github.com/xiaobuhui"><img src="https://img.shields.io/badge/GitHub-xiaobuhui-C1443C?style=flat-square&logo=github&logoColor=white&labelColor=2B2725" alt="GitHub" /></a>
+  <a href="mailto:kapibala555@163.com"><img src="https://img.shields.io/badge/Email-kapibala555%40163.com-C1443C?style=flat-square&logo=gmail&logoColor=white&labelColor=2B2725" alt="Email" /></a>
 </p>
-
----
-
-## 关于我 · About
 
 我是 xiaobuhui，在读学生，后端为主的全栈开发。白天上课，晚上写代码，手上几个项目基本都是这么攒出来的。
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 在做什么 · What I'm doing
+## 在做什么
 
 目前把大部分时间投在 Agent 方向：一边补工具调用、RAG、评测这些基础，一边用 Python 把想法做成能跑的东西。
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 技术栈 · Tech stack
+## 技术栈
 
 | 方向 | 技术栈 | 定位 |
 | --- | --- | --- |
