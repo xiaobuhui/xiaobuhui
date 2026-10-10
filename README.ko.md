@@ -42,6 +42,4 @@ xiaobuhui입니다. 재학생이며 백엔드 중심의 풀스택 개발자입�
 
 ---
 
-<p align="center">
-  <sub>Java 백엔드, 마이크로서비스, 에이전트 개발 관련 논의를 환영합니다</sub>
-</p>
+<img width="880" src="./assets/footer.en.jpg" alt="Java 백엔드, 마이크로서비스, 에이전트 개발 관련 논의를 환영합니다" />

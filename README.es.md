@@ -42,6 +42,4 @@ También mantengo un blog personal en Astro para notas técnicas.
 
 ---
 
-<p align="center">
-  <sub>Abierto a conversar sobre backend Java, microservicios y desarrollo de agentes</sub>
-</p>
+<img width="880" src="./assets/footer.en.jpg" alt="Abierto a conversar sobre backend Java, microservicios y desarrollo de agentes" />

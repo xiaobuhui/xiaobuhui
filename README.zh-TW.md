@@ -42,6 +42,4 @@
 
 ---
 
-<p align="center">
-  <sub>歡迎交流 Java 後端、微服務與 Agent 開發</sub>
-</p>
+<img width="880" src="./assets/footer.zh-TW.jpg" alt="歡迎交流 Java 後端、微服務與 Agent 開發" />

@@ -42,6 +42,4 @@ Je tiens également un blog personnel sous Astro pour mes notes techniques.
 
 ---
 
-<p align="center">
-  <sub>Ouvert aux échanges sur le backend Java, les microservices et le développement d'agents</sub>
-</p>
+<img width="880" src="./assets/footer.en.jpg" alt="Ouvert aux échanges sur le backend Java, les microservices et le développement d'agents" />

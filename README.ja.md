@@ -42,6 +42,4 @@ xiaobuhui です。大学生で、バックエンドを中心にフロントエ�
 
 ---
 
-<p align="center">
-  <sub>Java バックエンド、マイクロサービス、エージェント開発についてのご相談は歓迎です</sub>
-</p>
+<img width="880" src="./assets/footer.en.jpg" alt="Java バックエンド、マイクロサービス、エージェント開発についてのご相談は歓迎です" />
