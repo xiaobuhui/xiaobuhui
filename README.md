@@ -1,12 +1,8 @@
-<p align="center">
+<img width="880" src="./assets/banner.jpg" alt="Hi, I'm xiaobuhui · 在读学生 · 后端为主的全栈开发 · 主攻 Agent 方向" />
+
+<p align="right">
   <b>简体中文</b> · <a href="./README.en.md">English</a> · <a href="./README.zh-TW.md">繁體中文</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.ru.md">Русский</a> · <a href="./README.es.md">Español</a> · <a href="./README.fr.md">Français</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.pt.md">Português</a>
 </p>
-
-<img align="right" width="220" height="293" src="./assets/avatar.png" alt="xiaobuhui" />
-
-# Hi, I'm xiaobuhui
-
-在读学生 · 后端为主的全栈开发 · 主攻 Agent 方向
 
 <p>
   <a href="https://github.com/xiaobuhui"><img src="https://img.shields.io/badge/GitHub-xiaobuhui-C1443C?style=flat-square&logo=github&logoColor=white&labelColor=2B2725" alt="GitHub" /></a>

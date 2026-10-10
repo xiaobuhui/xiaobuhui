@@ -1,12 +1,8 @@
-<p align="center">
+<img width="880" src="./assets/banner.en.jpg" alt="Hi, I'm xiaobuhui · Student · Backend-orientierter Full-Stack-Entwickler · KI-Agenten" />
+
+<p align="right">
   <a href="./README.md">简体中文</a> · <a href="./README.en.md">English</a> · <a href="./README.zh-TW.md">繁體中文</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.ru.md">Русский</a> · <a href="./README.es.md">Español</a> · <a href="./README.fr.md">Français</a> · <b>Deutsch</b> · <a href="./README.pt.md">Português</a>
 </p>
-
-<img align="right" width="220" height="293" src="./assets/avatar.png" alt="xiaobuhui" />
-
-# Hi, I'm xiaobuhui
-
-Student · Backend-orientierter Full-Stack-Entwickler · KI-Agenten
 
 <p>
   <a href="https://github.com/xiaobuhui"><img src="https://img.shields.io/badge/GitHub-xiaobuhui-C1443C?style=flat-square&logo=github&logoColor=white&labelColor=2B2725" alt="GitHub" /></a>
